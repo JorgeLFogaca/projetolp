@@ -43,6 +43,8 @@ html {
     font-size: var(--fs-base);
     line-height: 1.5rem;
     color: var(--text-color-primary);
+
+    overflow-x: hidden;
 }
 
 body {
