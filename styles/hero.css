@@ -23,8 +23,8 @@
 
 @media(width >= 80em){
     #hero{
-    background: url(../assets/images/Illustration.png) no-repeat 
-    bottom center/100% auto;
+    background: url(../assets/images/bg.png) no-repeat 
+    bottom center/contain;
 
     & img[src*="music"]{
         width: 25.75rem;

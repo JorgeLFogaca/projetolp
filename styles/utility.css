@@ -34,7 +34,7 @@
     display: grid;
 }
 
-.even-columns {
+.even-columns{
     display: grid;
     gap: 1rem;
 }
